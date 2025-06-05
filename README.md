@@ -47,20 +47,6 @@
 
 ---
 
-## 📊 My Expertise
-
-```python
-data_analyst = {
-    "code": ["Python", "SQL"],
-    "visualization": ["Power BI", "Tableau", "Matplotlib", "Seaborn"],
-    "data_manipulation": ["Pandas", "NumPy", "Excel"],
-    "databases": ["MySQL", "SQL Server Management Studio"],
-    "skills": ["Statistical Analysis", "Data Storytelling", "Critical Thinking"],
-    "passion": "Converting complex data into actionable insights"
-}
-```
-
----
 
 ## 🌐 Let's Connect!
 
